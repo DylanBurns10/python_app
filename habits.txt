@@ -1,0 +1,254 @@
+
+--- Log at 2025-02-06 01:19:08 ---
+System Idle Process
+  Uptime: 20125 days, 1 hours, 19 minutes, 8 seconds
+System
+  Uptime: 20125 days, 1 hours, 19 minutes, 8 seconds
+
+  Uptime: 3 days, 22 hours, 33 minutes, 49 seconds
+Registry
+  Uptime: 3 days, 22 hours, 33 minutes, 49 seconds
+smss.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 46 seconds
+csrss.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 35 seconds
+wininit.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 34 seconds
+services.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+LsaIso.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+lsass.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 53 seconds
+fontdrvhost.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+NVDisplay.Container.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+amdfendrsr.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+atiesrxx.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+lghub_updater.exe
+  Uptime: 2 days, 4 hours, 52 minutes, 1 seconds
+MemCompression
+  Uptime: 3 days, 22 hours, 33 minutes, 33 seconds
+spoolsv.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 47 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 47 seconds
+wallpaperservice32.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+logi_lamparray_service.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+nvcontainer.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+mc-fw-host.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+audiodg.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+wlanext.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 47 seconds
+WmiPrvSE.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+gamingservicesnet.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+gamingservices.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 32 seconds
+sihost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+backgroundTaskHost.exe
+  Uptime: 0 days, 4 hours, 19 minutes, 46 seconds
+AggregatorHost.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 31 seconds
+NgcIso.exe
+  Uptime: 3 days, 22 hours, 33 minutes, 31 seconds
+steam.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 42 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 43 minutes, 26 seconds
+servicehost.exe
+  Uptime: 3 days, 22 hours, 31 minutes, 31 seconds
+ShellExperienceHost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 49 seconds
+mc-neo-host.exe
+  Uptime: 3 days, 21 hours, 38 minutes, 16 seconds
+SearchHost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+steamwebhelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 33 seconds
+steamwebhelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 33 seconds
+SearchIndexer.exe
+  Uptime: 3 days, 22 hours, 31 minutes, 53 seconds
+taskhostw.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 56 seconds
+wallpaper32.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 56 seconds
+SecurityHealthService.exe
+  Uptime: 3 days, 22 hours, 31 minutes, 54 seconds
+steamwebhelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 32 seconds
+SteelSeriesPrism.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 43 seconds
+LockApp.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 54 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 46 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 46 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 49 seconds
+dllhost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 56 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 46 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 57 minutes, 17 seconds
+ShellHost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+unsecapp.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 38 seconds
+EpicGamesLauncher.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 41 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 49 minutes, 44 seconds
+Widgets.exe
+  Uptime: 0 days, 4 hours, 39 minutes, 53 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 48 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 52 minutes, 43 seconds
+conhost.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 56 seconds
+Discord.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 35 seconds
+iCUE.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 47 seconds
+taskhostw.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+GitHubDesktop.exe
+  Uptime: 0 days, 3 hours, 57 minutes, 34 seconds
+Discord.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 33 seconds
+lghub_agent.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 39 seconds
+GitHubDesktop.exe
+  Uptime: 0 days, 3 hours, 57 minutes, 33 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 53 minutes, 10 seconds
+conhost.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 56 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 52 seconds
+QmlRenderer.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 56 seconds
+WhatsApp.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 54 seconds
+Discord.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 35 seconds
+steamwebhelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 33 seconds
+fontdrvhost.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 16 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 51 minutes, 38 seconds
+steamwebhelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 32 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 56 seconds
+GitHubDesktop.exe
+  Uptime: 0 days, 3 hours, 57 minutes, 34 seconds
+PhoneExperienceHost.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 47 seconds
+NVDisplay.Container.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 11 seconds
+mc-fw-host.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+Discord.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 34 seconds
+ctfmon.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 54 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 46 seconds
+StartMenuExperienceHost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 49 minutes, 44 seconds
+Discord.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 35 seconds
+RuntimeBroker.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 48 seconds
+steamservice.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 33 seconds
+ApplicationFrameHost.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 51 seconds
+Discord.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 35 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 52 minutes, 4 seconds
+lghub_system_tray.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 39 seconds
+SecurityHealthSystray.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 47 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 54 minutes, 13 seconds
+SteelSeriesGG.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 45 seconds
+EpicWebHelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 41 seconds
+QmlRenderer.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 56 seconds
+firefox.exe
+  Uptime: 0 days, 1 hours, 55 minutes, 1 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 48 seconds
+SteelSeriesSonar.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 45 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 51 minutes, 28 seconds
+winlogon.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 16 seconds
+explorer.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 57 seconds
+atieclxx.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 11 seconds
+conhost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 45 seconds
+csrss.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 16 seconds
+uihost.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 58 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 58 minutes, 46 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 51 minutes, 43 seconds
+SteelSeriesEngine.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 45 seconds
+EpicWebHelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 41 seconds
+dwm.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 16 seconds
+firefox.exe
+  Uptime: 0 days, 4 hours, 53 minutes, 28 seconds
+nvcontainer.exe
+  Uptime: 0 days, 23 hours, 20 minutes, 11 seconds
+steamwebhelper.exe
+  Uptime: 0 days, 4 hours, 59 minutes, 33 seconds
+
+--- Log at 2025-02-06 01:20:18 ---
+
+--- Log at 2025-02-06 01:22:49 ---
+
+--- Log at 2025-02-06 01:26:26 ---
+
+--- Log at 2025-02-06 01:27:40 ---
+
+--- Log at 2025-02-06 01:29:03 ---
